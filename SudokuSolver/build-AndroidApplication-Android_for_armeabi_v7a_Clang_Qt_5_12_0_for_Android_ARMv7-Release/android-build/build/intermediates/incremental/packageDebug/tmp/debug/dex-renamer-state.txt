@@ -1,0 +1,4 @@
+#Wed Jan 23 21:45:19 AEDT 2019
+base.0=/Users/jacksondearing/Desktop/projects/build-AndroidApplication-Android_for_armeabi_v7a_Clang_Qt_5_12_0_for_Android_ARMv7-Release/android-build/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
